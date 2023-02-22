@@ -1,7 +1,7 @@
 # fnfmods
 Play Fnf mods online without downloading
 
-https://fridaynightfunkin.games Play Fnf Mods Online without downloading
+https://76games.io Play Fnf Mods Online without downloading
 
 <a href="https://fnfmods.lol">FNFMODS.lol</a>
 
